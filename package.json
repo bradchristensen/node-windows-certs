@@ -1,6 +1,6 @@
 {
   "name": "windows-certs",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "description": "Get certificates from the windows store.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "async": "^1.5.2",
-    "edge": "^5.9.2"
+    "edge": "^6.5.1"
   }
 }
