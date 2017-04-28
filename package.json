@@ -1,6 +1,6 @@
 {
   "name": "windows-certs",
-  "version": "3.4.1",
+  "version": "4.0.0",
   "description": "Get certificates from the windows store.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "async": "^1.5.2",
-    "edge": "^6.5.1"
+    "async": "^1.5.2"
+  },
+  "peerDependencies": {
+    "edge": "*"
   }
 }
