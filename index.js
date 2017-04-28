@@ -1,4 +1,4 @@
-var edge = require('edge');
+var edge = require('edge-js');
 var path = require('path');
 var async = require('async');
 
